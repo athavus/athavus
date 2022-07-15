@@ -53,6 +53,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/athavus/athavus/blob/output/snake.svg" alt="Snake animation" />
-
 ###
