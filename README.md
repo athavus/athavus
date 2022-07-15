@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<h4 align="center">Tecnologias do meu conhecimento básico:</h4>
+<h2 align="center">Tecnologias do meu conhecimento básico:</h2>
 
 ###
 
