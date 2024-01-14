@@ -28,9 +28,6 @@
   <a href="miguelryanfreitas@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=miguelryanfreitas&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/ath4vus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=ath4vus&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
   <a href="https://web.whatsapp.com/send?phone=5583988864397" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=83988864397&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
