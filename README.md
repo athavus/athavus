@@ -1,43 +1,33 @@
-<h1 align="center">Olá, meu nome é Miguel Ryan!</h1>
+<h1 align="center">Olá, meu nome é Miguel Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<br clear="both">
+## :woman_technologist: &nbsp;About Me :
 
-<h2 align="center">Tecnologias do meu conhecimento básico:</h2>
+Eu sou um desenvolvedor Front-end  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
 
-###
+- 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.
+- ⚡ Trabalho em projetos dentro do próprio IFPB. 
+- 📫 Como se comunicar comigo: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-miguelryanfreitas-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/miguel-ryan-freitas))
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-</div>
+---
 
-###
+### 🛠 &nbsp;Linguagens e Ferramentas do Meu Conhecimento:
 
-<img align="right" height="150" src="https://thumbs.gfycat.com/AdvancedReasonableElephantbeetle-max-1mb.gif"  />
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/1mrzin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=1mrzin&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="miguelryanfreitas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=miguelryanfreitas&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://web.whatsapp.com/send?phone=5583988864397" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=83988864397&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/miguel-ryan-freitas-914504245/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=miguelryanfreitas&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=athavus&theme=dark&background=000000)](https://git.io/streak-stats)
 
-###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athavus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br clear="both">
+---
 
 <img src="https://profile-readme-generator.com/assets/snake.svg">
