@@ -34,4 +34,4 @@ Eu sou um desenvolvedor Front-end  <img src="https://media.giphy.com/media/WUlpl
 
 ---
 
-<h3><a href="settings.json"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="25" height="25"/>ﾠﾠﾠﾠﾠㅤㅤㅤㅤㅤ Minhas Configurações do VsCode</a> </h3>
+<h3><a href="settings.json"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="25" height="25"/> Minhas Configurações do VsCode</a> </h3>
