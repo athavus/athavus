@@ -30,3 +30,5 @@ Eu sou um desenvolvedor Front-end  <img src="https://media.giphy.com/media/WUlpl
 ---
 
 <img src="https://profile-readme-generator.com/assets/snake.svg">
+
+<h1><a href="settings.json">Minhas Configurações do VsCode</a></h1>
