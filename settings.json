@@ -19,11 +19,11 @@
 	"git.autofetch": true,
 	"apc.electron": {
 		"titleBarStyle": "hidden",
-		"frame": false,
+		"frame": false
 	},
 	"workbench.layoutControl.enabled": false,
 	"apc.header": {
-		"height": 33,
+		"height": 33
 	},
 	"apc.font.family": "Victor Mono",
 	"apc.stylesheet": {
@@ -67,7 +67,7 @@
 	"workbench.activityBar.location": "hidden",
 	"explorer.fileNesting.enabled": true,
 	"explorer.fileNesting.patterns": {
-		"README.md": "LICENSE*, package.json*, .gitignore*, requirements*, Docker*, db.sqlite3*, .gitattributes*",
+		"README.md": "LICENSE*, package.json*, .gitignore*, requirements*, Docker*, db.sqlite3*, .gitattributes*"
 	},
 	"terminal.integrated.fontSize": 16,
 	"terminal.integrated.fontFamily": "JetBrains Mono",
