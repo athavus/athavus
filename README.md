@@ -6,7 +6,7 @@ Eu sou um desenvolvedor Front-end  <img src="https://media.giphy.com/media/WUlpl
 
 - 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.
 - ⚡ Trabalho em projetos dentro do próprio IFPB. 
-- 📫 Como se comunicar comigo: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-miguelryanfreitas-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/miguel-ryan-freitas))
+- 📫 Como se comunicar comigo: &nbsp; ((https://www.linkedin.com/in/miguel-ryan-freitas))
 
 ---
 
