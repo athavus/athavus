@@ -2,9 +2,10 @@
 
 ## :woman_technologist: &nbsp;About Me :
 
-Eu sou um desenvolvedor Front-end  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
+Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.
+- 💾 Faço parte da Capacitação em Sistemas Embarcados do Centro de Competência EMBRAPII - Virtus CC
 - ⚡ Trabalho em projetos dentro do próprio IFPB. 
 - 📫 Como se comunicar comigo: &nbsp; https://www.linkedin.com/in/miguel-ryan-freitas
 
