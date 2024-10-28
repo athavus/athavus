@@ -13,13 +13,15 @@
 	"workbench.editor.labelFormat": "short",
 	"editor.fontLigatures": true,
 	"editor.letterSpacing": 1.1,
+	"editor.letterSpacing": 1.1,
 	"explorer.compactFolders": false,
+	"workbench.iconTheme": "symbols",
 	"workbench.iconTheme": "symbols",
 	"code-runner.runInTerminal": true,
 	"git.autofetch": true,
 	"apc.electron": {
 		"titleBarStyle": "hidden",
-		"frame": false
+		"frame": false,
 	},
 	"apc.stylesheet": {
 		"body": {
@@ -66,9 +68,13 @@
 		"height": 33
 	},
 	"apc.font.family": "Inter",
+	"apc.font.family": "Inter",
 	"workbench.activityBar.location": "hidden",
 	"explorer.fileNesting.enabled": true,
 	"explorer.fileNesting.patterns": {
+		"package.json": "README.md, package-lock.json, LICENSE, .gitignore, requirements, Docker*, db.sqlite3, gitattributes",
+		"tsconfig.json": ".eslintrc.cjs, tsconfig.node.json, vite.config.ts",
+		"tailwind.config.js": "postcss.config.js"
 		"package.json": "README.md, package-lock.json, LICENSE, .gitignore, requirements, Docker*, db.sqlite3, gitattributes",
 		"tsconfig.json": ".eslintrc.cjs, tsconfig.node.json, vite.config.ts",
 		"tailwind.config.js": "postcss.config.js"
@@ -77,14 +83,42 @@
 	"terminal.integrated.fontFamily": "JetBrains Mono",
 	"editor.mouseWheelZoom": true,
 	"window.zoomLevel": -2.2,
+	"window.zoomLevel": -2.2,
 	"javascript.updateImportsOnFileMove.enabled": "always",
 	"liveServer.settings.host": "localhost",
 	"editor.renderWhitespace": "none",
 	"terminal.integrated.drawBoldTextInBrightColors": false,
 	"terminal.integrated.env.windows": {},
 	"workbench.colorTheme": "Min Dark",
+	"workbench.colorTheme": "Min Dark",
 	"editor.wordWrap": "on",
 	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features",
+		"editor.codeActionsOnSave": {
+			"source.organizeImports.biome": "explicit",
+			"quickfix.biome": "explicit"
+		}
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "biomejs.biome",
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "explicit",
+			"quickfix.biome": "explicit"
+		}
+	},
+	"[python]": {
+		"editor.defaultFormatter": "biomejs.biome",
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "explicit",
+			"quickfix.biome": "explicit"
+		}
+	},
+	"[json]": {
+		"editor.quickSuggestions": {
+			"strings": true
+		},
+		"editor.suggest.insertMode": "replace",
+		"editor.fontFamily": "Victor Mono Light"
 		"editor.defaultFormatter": "vscode.html-language-features",
 		"editor.codeActionsOnSave": {
 			"source.organizeImports.biome": "explicit",
