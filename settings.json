@@ -1,93 +1,158 @@
 {
-	"files.autoSave": "afterDelay",
 	"explorer.confirmDelete": false,
 	"explorer.confirmDragAndDrop": false,
 	"editor.minimap.enabled": false,
-	"symbols.hidesExplorerArrows": false,
 	"liveServer.settings.donotShowInfoMsg": true,
-	"editor.fontFamily": "JetBrains Mono NL",
+	"javascript.suggest.autoImports": true,
+	"extensions.ignoreRecommendations": true,
+	"editor.fontFamily": "Jetbrains Mono",
 	"editor.fontSize": 18,
-	"editor.lineHeight": 1.78,
+	"editor.lineHeight": 1.75,
 	"workbench.startupEditor": "newUntitledFile",
 	"editor.renderLineHighlight": "none",
 	"workbench.editor.labelFormat": "short",
 	"editor.fontLigatures": true,
+	"editor.letterSpacing": 1.1,
 	"explorer.compactFolders": false,
-	"breadcrumbs.enabled": false,
-	"workbench.iconTheme": "vscode-stardew-icon-theme",
+	"workbench.iconTheme": "symbols",
 	"code-runner.runInTerminal": true,
 	"git.autofetch": true,
 	"apc.electron": {
 		"titleBarStyle": "hidden",
 		"frame": false
 	},
+	"apc.stylesheet": {
+		"body": {
+			"font-size": "20px"
+		},
+		"body.vscode-dark": "background-color: rgb(26, 26, 26) !important",
+		".pane-body": "background-color: rgb(26, 26, 26) !important",
+		".explorer-folders-view": "background-color: rgb(26, 26, 26) !important",
+		".pane-header": "padding: 0 8px",
+		"#foreground": "background-color: rgb(26, 26, 26) !important;",
+		".nosidebar .inline-tabs-placeholder": "width: 75px",
+		".monaco-list-row": "border-radius: 4px; background-color: rgb(26, 26, 26) !important",
+		".monaco-workbench": "--vscode-editor-background: rgb(26, 26, 26) !important; --vscode-editorGutter-background: rgb(26, 26, 26) !important; --vscode-statusBarItem-prominentBackground: rgb(26, 26, 26) !important; --vscode-editor-foreground: rgb(26, 26, 26) !important",
+		".custom-list-row .monaco-list-row": "font-size: 17px",
+		".part.statusbar.status-border-top": "--status-border-top-color: rgb(26, 26, 26) !important; background-color: rgb(26, 26, 26) !important",
+		".monaco-sash.vertical": "background-color: rgb(26, 26, 26) !important;",
+		".title.tabs.show-file-icons": "background-color: rgb(26, 26, 26) !important",
+		".line-numbers": "color: #ffffff27 !important",
+		".line-numbers.active-line-number": "color: #ffffff !important",
+		".sticky-line-number-inner": "color: #ffffff90 !important",
+		".empty": "background-color: rgb(26, 26, 26) !important",
+		".label-name": "font-size: 16px !important",
+		".mtk3": "text-shadow: 0px 0px 6px #b392f0;",
+		".mtk8": "color: #79b8ff !important; text-shadow: 0px 0px 2px #79b8ff;",
+		".mtk9": "color: #f1f991 !important; text-shadow: 0px 0px 8px #f1f991;",
+		".mtk10": "text-shadow: 0px 0px 10px #f97583;",
+		".mtk12": "text-shadow: 0px 0px 3px #ffab70",
+		".tab.tab-actions-right.sizing-fit.has-icon": "background-color: rgb(26, 26, 26) !important",
+		".sticky-widget": "background-color: rgb(26, 26, 26) !important",
+		"a.statusbar-item-label.disabled": "color: #ffffff !important",
+		".monaco-sash.horizontal.maximum": "display: none",
+		"monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none",
+		".split-view-view:firs-child .pane-header": "display: none !important",
+		".pane-header.expanded": "display: none !important;",
+		".editor-actions": "display: none",
+		".title-label > h2": "display: none"
+	},
+	"workbench.editor.enablePreview": false,
+	"apc.listRow": {
+		"height": 32
+	},
 	"workbench.layoutControl.enabled": false,
 	"apc.header": {
 		"height": 33
 	},
-	"apc.font.family": "Victor Mono",
-	"apc.stylesheet": {
-		"body" : {
-			"font-size": "20px"
-		},
-		".title-label > h2": "display: none",
-		".editor-actions": "display: none",
-		".pane-body": "padding: 8px; background-color: #110f12 !important",
-		".explorer-folders-view": "background-color: #110f12 !important",
-		".pane-header": "padding: 0 8px",
-		".pane-header.expanded": "display: none !important;",
-		"#foreground": "background-color: #110f12 !important;",
-		".nosidebar .inline-tabs-placeholder": "width: 75px",
-		".split-view-view:firs-child .pane-header": "display: none !important",
-		".monaco-list-row": "border-radius: 4px; background-color: #110f12 !important",
-		".monaco-workbench": "--vscode-editor-background: #110f12 !important; --vscode-editorGutter-background: #110f12 !important; --vscode-statusBarItem-prominentBackground: #110f12 !important; --vscode-editor-foreground: background-color: #110f12 !important",
-		"monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none",
-		".custom-list-row .monaco-list-row": "font-size: 17px",
-		".monaco-sash.horizontal.maximum": "display: none",
-		".part.statusbar.status-border-top": "--status-border-top-color: #110f12 !important; background-color: #110f12 !important",
-		".monaco-sash.vertical": "background-color: #110f12 !important;",
-		".title.tabs.show-file-icons": "background-color: #110f12 !important",
-		".line-numbers": "color: #fb58f547 !important",
-		".line-numbers.active-line-number": "color: #fb58f5 !important",
-		".sticky-line-number-inner": "color: #fb58f590 !important",
-		".empty": "background-color: #110f12 !important",
-		".label-name": "font-size: 16px !important",
-		".mtk3": "color: #f6ff7c !important",
-		".mtk4": "color: #6272a4bd !important",
-		".mtk5": "color: #3ae4ed !important",
-		".mtk9": "color: #f1f991 !important",
-		".mtk11": "color: #fb58f5 !important",
-		".tab.tab-actions-right.sizing-fit.has-icon": "background-color: #110f12 !important",
-		".sticky-widget": "background-color: #110f12 !important"
-	},
-	"workbench.editor.enablePreview": false,
-	"apc.listRow": {
-		"height": 30
-	},
+	"apc.font.family": "Inter",
 	"workbench.activityBar.location": "hidden",
 	"explorer.fileNesting.enabled": true,
 	"explorer.fileNesting.patterns": {
-		"README.md": "LICENSE*, package.json*, .gitignore*, requirements*, Docker*, db.sqlite3*, .gitattributes*"
+		"package.json": "README.md, package-lock.json, LICENSE, .gitignore, requirements, Docker*, db.sqlite3, gitattributes",
+		"tsconfig.json": ".eslintrc.cjs, tsconfig.node.json, vite.config.ts",
+		"tailwind.config.js": "postcss.config.js"
 	},
 	"terminal.integrated.fontSize": 16,
 	"terminal.integrated.fontFamily": "JetBrains Mono",
-	"window.commandCenter": false,
 	"editor.mouseWheelZoom": true,
-	"window.zoomLevel": -1.8,
+	"window.zoomLevel": -2.2,
 	"javascript.updateImportsOnFileMove.enabled": "always",
 	"liveServer.settings.host": "localhost",
-	"cmake.showOptionsMovedNotification": false,
 	"editor.renderWhitespace": "none",
 	"terminal.integrated.drawBoldTextInBrightColors": false,
 	"terminal.integrated.env.windows": {},
-	"workbench.colorTheme": "Min Darkest Dracula",
-	"window.menuBarVisibility": "compact",
+	"workbench.colorTheme": "Min Dark",
 	"editor.wordWrap": "on",
 	"[html]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
+		"editor.defaultFormatter": "vscode.html-language-features",
+		"editor.codeActionsOnSave": {
+			"source.organizeImports.biome": "explicit",
+			"quickfix.biome": "explicit"
+		}
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "biomejs.biome",
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "explicit",
+			"quickfix.biome": "explicit"
+		}
+	},
+	"[python]": {
+		"editor.defaultFormatter": "biomejs.biome",
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "explicit",
+			"quickfix.biome": "explicit"
+		}
+	},
+	"[json]": {
+		"editor.quickSuggestions": {
+			"strings": true
+		},
+		"editor.suggest.insertMode": "replace",
+		"editor.fontFamily": "Victor Mono Light"
 	},
 	"editor.guides.indentation": false,
 	"workbench.statusBar.visible": true,
-	"NyanCat.backgroundColor": "transparent",
-	"NyanCat.name": "bday"
+	"terminal.integrated.defaultProfile.windows": "Command Prompt",
+	"git.openRepositoryInParentFolders": "never",
+	"[typescript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"window.newWindowDimensions": "inherit",
+	"editor.cursorBlinking": "expand",
+	"editor.cursorWidth": 4,
+	"terminal.integrated.cursorStyle": "underline",
+	"terminal.integrated.cursorStyleInactive": "none",
+	"window.titleBarStyle": "custom",
+	"security.workspace.trust.untrustedFiles": "open",
+	"symbols.files.associations": {
+		"*.tldr": "svg"
+	},
+	"symbols.hidesExplorerArrows": false,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"css.lint.unknownAtRules": "ignore",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"console-ninja.featureSet": "Community",
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 500,
+	"editor.tabSize": 2,
+	"console-ninja.warnOnNoToolsDetected": false,
+	"workbench.sideBar.location": "right",
+	"workbench.editor.editorActionsLocation": "hidden",
+	"breadcrumbs.enabled": false,
+	"window.commandCenter": false,
+	"window.menuBarVisibility": "compact",
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"update.mode": "manual"
 }
