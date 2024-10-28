@@ -21,7 +21,7 @@
 	"git.autofetch": true,
 	"apc.electron": {
 		"titleBarStyle": "hidden",
-		"frame": false,
+		"frame": false
 	},
 	"apc.stylesheet": {
 		"body": {
@@ -74,7 +74,7 @@
 	"explorer.fileNesting.patterns": {
 		"package.json": "README.md, package-lock.json, LICENSE, .gitignore, requirements, Docker*, db.sqlite3, gitattributes",
 		"tsconfig.json": ".eslintrc.cjs, tsconfig.node.json, vite.config.ts",
-		"tailwind.config.js": "postcss.config.js"
+		"tailwind.config.js": "postcss.config.js",
 		"package.json": "README.md, package-lock.json, LICENSE, .gitignore, requirements, Docker*, db.sqlite3, gitattributes",
 		"tsconfig.json": ".eslintrc.cjs, tsconfig.node.json, vite.config.ts",
 		"tailwind.config.js": "postcss.config.js"
@@ -118,7 +118,7 @@
 			"strings": true
 		},
 		"editor.suggest.insertMode": "replace",
-		"editor.fontFamily": "Victor Mono Light"
+		"editor.fontFamily": "Victor Mono Light",
 		"editor.defaultFormatter": "vscode.html-language-features",
 		"editor.codeActionsOnSave": {
 			"source.organizeImports.biome": "explicit",
