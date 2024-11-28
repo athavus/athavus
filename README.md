@@ -45,11 +45,6 @@ Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### 🔥 &nbsp; Estatísticas :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athavus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <img src="https://profile-readme-generator.com/assets/snake.svg">
 
 ---
