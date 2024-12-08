@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+  font-size: 20px
+}
+
+body.vscode-dark {
+  background-color: rgb(26, 26, 26) !important
+}
+
+.pane-body {
+  background-color: rgb(26, 26, 26) !important
+}
+
+.explorer-folders-view {
+  background-color: rgb(26, 26, 26) !important
+}
+
+.pane-header {
+  padding: 0 8px
+}
+
+#foreground {
+  background-color: rgb(26, 26, 26) !important;
+}
+
+.nosidebar .inline-tabs-placeholder {
+  width: 75px
+}
+
+.monaco-list-row {
+  border-radius: 4px;
+  margin-top:5px;
+  font-family: "Inter", serif !important ;
+  background-color: rgb(26, 26, 26) !important
+}
+
+.monaco-workbench {
+  --vscode-editor-background: rgb(26, 26, 26) !important; 
+  --vscode-editorGutter-background: rgb(26, 26, 26) !important; 
+  --vscode-statusBarItem-prominentBackground: rgb(26, 26, 26) !important; 
+  --vscode-editor-foreground: rgb(26, 26, 26) !important
+}
+
+.custom-list-row .monaco-list-row {
+  margin-top: 10px;
+  font-size: 12px
+}
+
+.part.statusbar.status-border-top {
+  --status-border-top-color: rgb(26, 26, 26) !important; 
+  background-color: rgb(26, 26, 26) !important
+}
+
+.monaco-sash.vertical {
+  background-color: rgb(26, 26, 26) !important;
+}
+
+.title.tabs.show-file-icons {
+  background-color: rgb(26, 26, 26) !important
+}
+
+.line-numbers {
+  color: #ffffff27 !important
+}
+
+.line-numbers.active-line-number {
+  color: #ffffff !important
+}
+
+.sticky-line-number-inner {
+  color: #ffffff90 !important
+}
+
+.empty {
+  background-color: rgb(26, 26, 26) !important
+}
+
+.label-name {
+  font-size: 12px !important
+}
+
+.mtk3 {
+  text-shadow: 0px 0px 6px #b392f0;
+}
+
+.mtk8 {
+  color: #79b8ff !important; text-shadow: 0px 0px 2px #79b8ff;
+}
+
+.mtk9 {
+  color: #f1f991 !important; text-shadow: 0px 0px 8px #f1f991;
+}
+
+.mtk10 {
+  text-shadow: 0px 0px 10px #f97583;
+}
+
+.mtk12 {
+  text-shadow: 0px 0px 3px #ffab70
+}
+
+.tab.tab-actions-right.sizing-fit.has-icon {
+  background-color: rgb(26, 26, 26) !important
+}
+
+.sticky-widget {
+  background-color: rgb(26, 26, 26) !important
+}
+
+a.statusbar-item-label.disabled {
+  color: #ffffff !important
+}
+
+.monaco-sash.horizontal.maximum {
+  display: none
+}
+
+monaco-workbench .monaco-list:not(.element-focused):focus:before {
+  display: none
+}
+
+.split-view-view:firs-child .pane-header {
+  display: none !important
+}
+
+.pane-header.expanded {
+  display: none !important
+}
+
+.editor-actions {
+  display: none
+}
+
+.title-label > h2 {
+  display: none
+}
+
