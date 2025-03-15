@@ -10,7 +10,7 @@ Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### 🛠 &nbsp;Linguagens e Ferramentas do Meu Conhecimento:
+### 🛠 &nbsp;Ferramentas do Meu Conhecimento:
 ---
 #### 🛠 &nbsp;Tecnologias Gerais:
 <p>
@@ -41,6 +41,11 @@ Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcM
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" alt="ARDUINO" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athavus&layout=compact&theme=dracula)
+
 
 ---
 
