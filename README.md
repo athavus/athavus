@@ -1,4 +1,6 @@
-<h1 align="center">Olá, meu nome é Miguel Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<div align="center">
+
+<h1>Olá, meu nome é Miguel Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ---
 
@@ -8,17 +10,20 @@
 
 ## :woman_technologist: &nbsp;Sobre mim :
 
-Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Eu sou um desenvolvedor iniciante <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.
-- 💾 Faço parte da Capacitação em Sistemas Embarcados do Centro de Competência EMBRAPII - Virtus CC
+- 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.  
+- 💾 Faço parte da Capacitação em Sistemas Embarcados do Centro de Competência EMBRAPII - Virtus CC  
 - ⚡ Trabalho em projetos dentro do próprio IFPB. 
 
 ---
 
 ### 🛠 &nbsp;Ferramentas do Meu Conhecimento:
+
 ---
+
 #### 🛠 &nbsp;Tecnologias Gerais:
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
@@ -29,7 +34,9 @@ Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcM
 </p>
 
 ---
+
 #### 🛠 &nbsp;Web:
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -41,7 +48,9 @@ Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcM
 </p>
 
 ---
+
 #### 🛠 &nbsp;Embarcados:
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ARDUINO" alt="ARDUINO" width="40" height="40"/>&nbsp;
@@ -55,4 +64,6 @@ Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-<h3><a href="settings.json"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="25" height="25"/> Minhas Configurações do VsCode</a> </h3>
+<h3><a href="settings.json"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="25" height="25"/> Minhas Configurações do VsCode</a></h3>
+
+</div>
