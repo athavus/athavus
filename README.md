@@ -1,5 +1,11 @@
 <h1 align="center">Olá, meu nome é Miguel Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
+---
+
+<img src="https://profile-readme-generator.com/assets/snake.svg">
+
+---
+
 ## :woman_technologist: &nbsp;Sobre mim :
 
 Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -46,11 +52,6 @@ Eu sou um desenvolvedor iniciante<img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athavus&layout=compact&theme=dracula)
-
-
----
-
-<img src="https://profile-readme-generator.com/assets/snake.svg">
 
 ---
 
