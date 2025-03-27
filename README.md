@@ -10,8 +10,6 @@
 
 ## :woman_technologist: &nbsp;Sobre mim :
 
-Eu sou um desenvolvedor iniciante <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
 - 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.  
 - 💾 Faço parte da Capacitação em Sistemas Embarcados do Centro de Competência EMBRAPII - Virtus CC  
 - ⚡ Trabalho em projetos dentro do próprio IFPB. 
