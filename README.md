@@ -60,6 +60,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athavus&layout=compact&theme=dracula)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=athavus&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ---
 
 <h3><a href="settings.json"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="25" height="25"/> Minhas Configurações do VsCode</a></h3>
