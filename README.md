@@ -10,7 +10,7 @@
 
 ## :woman_technologist: &nbsp;Sobre mim :
 
-- 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande.  
+- 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande, turma 2023.2. (36%)
 - 💾 Faço parte da Capacitação em Sistemas Embarcados do Centro de Competência EMBRAPII - Virtus CC  
 - ⚡ Trabalho em projetos dentro do próprio IFPB. 
 
