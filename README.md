@@ -54,6 +54,22 @@
 
 ---
 
+## Projeto em Andamento:
+
+[![dynamic-degree](https://github-readme-stats.vercel.app/api/pin/?username=athavus&repo=dynamic-degree)](https://github.com/athavus/dynamic-degree)
+
+---
+
+## Projetos Concluídos Recentemente:
+
+[![mic-monitor](https://github-readme-stats.vercel.app/api/pin/?username=athavus&repo=mic-monitor)](https://github.com/athavus/mic-monitor)
+
+[![pomodoro](https://github-readme-stats.vercel.app/api/pin/?username=athavus&repo=pomodoro)](https://github.com/athavus/pomodoro)
+
+[![i2c-sharingan-animation](https://github-readme-stats.vercel.app/api/pin/?username=athavus&repo=i2c-sharingan-animation)](https://github.com/athavus/i2c-sharingan-animation)
+
+---
+
 <h3><a href="settings.json"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="25" height="25"/> Minhas Configurações do VsCode</a></h3>
 
 </div>
