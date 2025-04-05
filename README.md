@@ -1,6 +1,6 @@
 <div align="center">
 
-## :woman_technologist: &nbsp;Sobre mim :
+## :woman_technologist: &nbsp;Sobre mim:
 
 - 🔭 Estudo Engenharia de Computação no IFPB de Campina Grande, turma 2023.2. (36%)
 - 💾 Faço parte da Capacitação em Sistemas Embarcados do Centro de Competência EMBRAPII - Virtus CC  
@@ -49,8 +49,6 @@
 </p>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athavus&layout=compact&theme=dracula)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=athavus&theme=dark&background=000000)](https://git.io/streak-stats)
 
