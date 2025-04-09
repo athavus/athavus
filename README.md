@@ -54,6 +54,14 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=athavus&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&stroke=777777)](https://git.io/streak-stats)
+
+<img src="https://komarev.com/ghpvc/?username=athavus&style=flat-square&color=000000" alt=""/>
+
+</div>
+
 ## 📌 Projetos em Destaque
 
 <div align="center">
