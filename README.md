@@ -64,21 +64,21 @@
 
 <div align="center">
   <h3>🔍 Projetos em Andamento</h3>
-  <a href="https://github.com/athavus/dynamic-degree">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=dynamic-degree" alt="dynamic-degree repo card" />
+  <a href="https://github.com/athavus/ai-assisted-learn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=ai-assisted-learn" alt="ai-assisted-learn repo card" />
   </a>
 </div>
 
 <div align="center">
   <h3>🚩 Projetos Finalizados Recentemente</h3>
+  <a href="https://github.com/athavus/dynamic-degree">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=dynamic-degree" alt="dynamic-degree repo card" />
+  </a>
+  <a href="https://github.com/athavus/laplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=laplace" alt="laplace repo card" />
+  </a>
   <a href="https://github.com/athavus/mic-monitor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=mic-monitor" alt="mic-monitor repo card" />
-  </a>
-  <a href="https://github.com/athavus/i2c-sharingan-animation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=i2c-sharingan-animation" alt="i2c-sharingan-animation repo card" />
-  </a>
-  <a href="https://github.com/athavus/pomodoro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=pomodoro" alt="pomodoro repo card" />
   </a>
 </div>
 
