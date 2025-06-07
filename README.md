@@ -64,9 +64,6 @@
 
 <div align="center">
   <h3>🔍 Projetos em Andamento</h3>
-  <a href="https://github.com/athavus/ai-assisted-learn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=ai-assisted-learn" alt="ai-assisted-learn repo card" />
-  </a>
 </div>
 
 <div align="center">
