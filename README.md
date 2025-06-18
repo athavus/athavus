@@ -1,11 +1,4 @@
-<div align="center">
-
-# MIGUEL RYAN DANTAS DE FREITAS
-
-</div>
-
-## 👩‍💻 &nbsp;Sobre mim
-
+## MIGUEL RYAN DANTAS DE FREITAS
 ```text
 📚 Engenharia de Computação @ IFPB Campina Grande (36% concluído)
 💡 Capacitação em Sistemas Embarcados - Centro de Competência EMBRAPII (Virtus CC)
@@ -17,8 +10,6 @@
 ## 🛠️ &nbsp;Minhas Habilidades
 
 <div align="center">
-
-### Tecnologias Gerais
 
 <p style="background-color:#111111; padding:15px; border-radius:10px;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
@@ -52,19 +43,11 @@
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-## 📌 Projetos em Destaque
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=athavus&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&stroke=777777)](https://git.io/streak-stats)
-
-<img src="https://komarev.com/ghpvc/?username=athavus&style=flat-square&color=000000" alt=""/>
-
-</div>
-
 <div align="center">
   <h3>🔍 Projetos em Andamento</h3>
 </div>
+
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <div align="center">
   <h3>🚩 Projetos Finalizados Recentemente</h3>
