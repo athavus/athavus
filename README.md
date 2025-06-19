@@ -21,8 +21,6 @@
   <h3>🔍 Projetos em Andamento</h3>
 </div>
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
 <div align="center">
   <h3>🚩 Projetos Finalizados Recentemente</h3>
   <a href="https://github.com/athavus/dynamic-degree">
