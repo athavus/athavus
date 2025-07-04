@@ -5,24 +5,12 @@
 🔧 Projetos internos no IFPB
 ```
 
-<div align="center">
-  <a href="https://github.com/athavus">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=athavus&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-<div align="center">
-  <h3>🔍 Projetos em Andamento</h3>
-</div>
-
-<div align="center">
-  <h3>🚩 Projetos Finalizados Recentemente</h3>
+<div align="left">
+  <h3>Projetos Finalizados Recentemente</h3>
   <a href="https://github.com/athavus/dynamic-degree">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=dynamic-degree" alt="dynamic-degree repo card" />
   </a>
