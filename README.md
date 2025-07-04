@@ -11,15 +11,3 @@
 </div>
   
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
-<div align="left">
-  <h3>Projetos Finalizados Recentemente</h3>
-  <a href="https://github.com/athavus/dynamic-degree">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=dynamic-degree" alt="dynamic-degree repo card" />
-  </a>
-  <a href="https://github.com/athavus/laplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=laplace" alt="laplace repo card" />
-  </a>
-  <a href="https://github.com/athavus/mic-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=athavus&theme=github_dark&hide_border=true&bg_color=000000&icon_color=FFFFFF&title_color=FFFFFF&text_color=AAAAAA&repo=mic-monitor" alt="mic-monitor repo card" />
-  </a>
-</div>
