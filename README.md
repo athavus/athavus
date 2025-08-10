@@ -75,7 +75,3 @@ Biblioteca para controle de LEDs RGB com RP2040.
 ## Contato
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=About.me&logoColor=cccccc)](https://athavus.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=cccccc)](https://www.linkedin.com/in/miguel-ryan-freitas)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=80&section=footer"/>
