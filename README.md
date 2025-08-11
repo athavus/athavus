@@ -7,7 +7,7 @@ Gosto de trabalhar tanto com **desenvolvimento web** quanto com **projetos embar
 ## Tecnologias
 <div align="left">
 
-  <h2>Desenvolvimento de Aplicações</h2>
+  <h3>Desenvolvimento de Aplicações</h3>
   <img src="https://img.shields.io/badge/React-0f1117?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-0f1117?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-0f1117?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -20,7 +20,7 @@ Gosto de trabalhar tanto com **desenvolvimento web** quanto com **projetos embar
 
   <hr>
 
-  <h2>Sistemas Embarcados</h2>
+  <h3>Sistemas Embarcados</h3>
   <img src="https://img.shields.io/badge/C-0f1117?style=flat&logo=c&logoColor=00599C" alt="C" />
   <img src="https://img.shields.io/badge/FreeRTOS-0f1117?style=flat&logo=freertos&logoColor=F69E1E" alt="FreeRTOS" />
   <img src="https://img.shields.io/badge/STM32-0f1117?style=flat&logo=stmicroelectronics&logoColor=009639" alt="STM32" />
@@ -28,7 +28,7 @@ Gosto de trabalhar tanto com **desenvolvimento web** quanto com **projetos embar
 
   <hr>
 
-  <h2>Banco de Dados</h2>
+  <h3>Banco de Dados</h3>
   <img src="https://img.shields.io/badge/PostgreSQL-0f1117?style=flat&logo=postgresql&logoColor=336791" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-0f1117?style=flat&logo=sqlite&logoColor=003B57" alt="SQLite" />
   <img src="https://img.shields.io/badge/Supabase-0f1117?style=flat&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
@@ -36,7 +36,7 @@ Gosto de trabalhar tanto com **desenvolvimento web** quanto com **projetos embar
 
   <hr>
 
-  <h2>Tecnologias Gerais</h2>
+  <h3>Tecnologias Gerais</h3>
   <img src="https://img.shields.io/badge/Git-0f1117?style=flat&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-0f1117?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
 
