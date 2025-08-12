@@ -1,6 +1,6 @@
 ## Sobre mim
 Sou estudante de **Engenharia de Computação** no **IFPB – Campus Campina Grande**, com capacitação em **Sistemas Embarcados** (Virtus CC).  
-Gosto de trabalhar tanto com **desenvolvimento web** quanto com **projetos embarcados**.
+Trabalho em projetos de **desenvolvimento web** e **projetos em sistemas embarcados**.
 
 ---
 
