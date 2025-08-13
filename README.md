@@ -44,34 +44,6 @@ Trabalho em projetos de **desenvolvimento web** e **projetos em sistemas embarca
 
 ---
 
-## Projetos em Destaque
-<table>
-<tr>
-<td width="50%">
-<strong><a href="https://github.com/athavus/laplace">Laplace</a></strong><br>
-Aplicativo estilo Kanban feito em React + localStorage.  
-Interface leve, responsiva e independente.
-</td>
-<td width="50%">
-<strong><a href="https://github.com/athavus/mic-monitor">Mic-Monitor</a></strong><br>
-Monitor de áudio usando Raspberry Pi Pico W.  
-Integração entre hardware e software para monitoramento em tempo real.
-</td>
-</tr>
-<tr>
-<td width="50%">
-<strong><a href="https://athavus.github.io/portfolio">Portfolio</a></strong><br>
-Meu site pessoal com informações e projetos organizados.
-</td>
-<td width="50%">
-<strong><a href="https://github.com/athavus/bitdoglab-mledsrgb-lib">BitdogLab-mLEDSRGB-lib</a></strong><br>
-Biblioteca para controle de LEDs RGB com RP2040.
-</td>
-</tr>
-</table>
-
----
-
 ## Contato
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=About.me&logoColor=cccccc)](https://athavus.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=cccccc)](https://www.linkedin.com/in/miguel-ryan-freitas)
