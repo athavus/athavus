@@ -1,5 +1,5 @@
 ## Sobre mim
-Sou estudante de **Engenharia Elétrica** no **IFPB – Campus Campina Grande**, com capacitação em **Sistemas Embarcados** (Virtus CC).  
+Sou estudante de **Engenharia de Computação** no **IFPB – Campus Campina Grande**, com capacitação em **Sistemas Embarcados** (Virtus CC).  
 Trabalho em projetos de **desenvolvimento web** e **projetos em sistemas embarcados**.
 
 ---
