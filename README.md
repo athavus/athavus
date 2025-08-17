@@ -41,7 +41,6 @@ Trabalho em projetos de **desenvolvimento web** e **projetos em sistemas embarca
   <img src="https://img.shields.io/badge/Linux-0f1117?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
 
 </div>
-
 ---
 
 ## Contato
