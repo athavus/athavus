@@ -9,10 +9,12 @@ Trabalho em projetos de **desenvolvimento web** e **projetos em sistemas embarca
 
   <h3>Desenvolvimento de Aplicações</h3>
   <img src="https://img.shields.io/badge/React-0f1117?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-0f1117?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-0f1117?style=flat&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-0f1117?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0f1117?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-0f1117?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Stribe-0f1117?style=flat&logo=stripe&logoColor=00AFE1" alt="Stribe" />
+  <img src="https://img.shields.io/badge/Svelte-0f1117?style=flat&logo=svelte&logoColor=FF3E00" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Stripe-0f1117?style=flat&logo=stripe&logoColor=00AFE1" alt="Stripe" />
   <img src="https://img.shields.io/badge/HTML5-0f1117?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0f1117?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Electron-0f1117?style=flat&logo=electron&logoColor=47848F" alt="Electron" />
