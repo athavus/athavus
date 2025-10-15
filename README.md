@@ -17,8 +17,10 @@ Trabalho em projetos de **desenvolvimento web** e **projetos em sistemas embarca
   <img src="https://img.shields.io/badge/Stripe-0f1117?style=flat&logo=stripe&logoColor=00AFE1" alt="Stripe" />
   <img src="https://img.shields.io/badge/HTML5-0f1117?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0f1117?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Electron-0f1117?style=flat&logo=electron&logoColor=47848F" alt="Electron" />
   <img src="https://img.shields.io/badge/Spring-0f1117?style=flat&logo=spring&logoColor=6DB33F" alt="Spring" />
+  <img src="https://img.shields.io/badge/Electron-0f1117?style=flat&logo=electron&logoColor=47848F" alt="Electron" />
+  <img src="https://img.shields.io/badge/Prisma-0f1117?style=flat&logo=prisma&logoColor=47848F" alt="Prisma" />
+  
 
   <hr>
 
