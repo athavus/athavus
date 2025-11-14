@@ -14,12 +14,12 @@ Trabalho em projetos de **desenvolvimento web** e **projetos em sistemas embarca
   <img src="https://img.shields.io/badge/JavaScript-0f1117?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-0f1117?style=flat&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Svelte-0f1117?style=flat&logo=svelte&logoColor=FF3E00" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Vue.js-0f1117?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vuejs" />
   <img src="https://img.shields.io/badge/Stripe-0f1117?style=flat&logo=stripe&logoColor=00AFE1" alt="Stripe" />
   <img src="https://img.shields.io/badge/HTML5-0f1117?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0f1117?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Spring-0f1117?style=flat&logo=spring&logoColor=6DB33F" alt="Spring" />
   <img src="https://img.shields.io/badge/Electron-0f1117?style=flat&logo=electron&logoColor=47848F" alt="Electron" />
-  <img src="https://img.shields.io/badge/Prisma-0f1117?style=flat&logo=prisma&logoColor=47848F" alt="Prisma" />
   
 
   <hr>
@@ -36,6 +36,7 @@ Trabalho em projetos de **desenvolvimento web** e **projetos em sistemas embarca
   <img src="https://img.shields.io/badge/PostgreSQL-0f1117?style=flat&logo=postgresql&logoColor=336791" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-0f1117?style=flat&logo=sqlite&logoColor=003B57" alt="SQLite" />
   <img src="https://img.shields.io/badge/Supabase-0f1117?style=flat&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-0f1117?style=flat&logo=prisma&logoColor=2D3748" alt="Prisma" />
   <img src="https://img.shields.io/badge/MySQL-0f1117?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" />
 
   <hr>
