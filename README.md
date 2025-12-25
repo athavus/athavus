@@ -1,5 +1,5 @@
 ## Sobre mim
-Sou estudante de **Engenharia de Computação** no **IFPB – Campus Campina Grande** (59%), do semestre 2023.2, com capacitação em **Sistemas Embarcados** (Virtus CC), atualmente estou em uma **residência em TIC** (Virtus CC).  
+Sou estudante de **Engenharia de Computação** no **IFPB – Campus Campina Grande** (61%), do semestre 2023.2, com capacitação em **Sistemas Embarcados** (Virtus CC), atualmente estou em uma **residência em TIC** (Virtus CC).  
 Trabalho em projetos de **desenvolvimento web/mobile**, **sistemas embarcados** e **tópicos relacionados à IA (Machine Learning, PLN, Visão Computacional)**.
 
 ---
