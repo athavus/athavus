@@ -45,14 +45,8 @@ galaxy_arms:
       - "Node.js"
       - "PostgreSQL"
       - "Spring Boot"
-  - name: "DevOps"
-    color: "axon_amber"
-    items:
-      - "Docker"
-      - "GitHub Actions"
-      - "ShellScript"
   - name: "Embarcados"
-    color: "nebula"
+    color: "axon_amber"
     items:
       - "Raspberry PI"
       - "STM32"
